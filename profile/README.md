@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Center for Wireless Networks & Applications is a research center at Amrita Vishwa Vidyapeetham University, India. The center focuses on projects in sustainable development, disaster management, smartgrids, intelligent infrastructures, AR & VR
+
 <!--
 
 **Here are some ideas to get you started:**
