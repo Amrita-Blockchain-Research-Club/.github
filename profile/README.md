@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Center for Wireless Networks & Applications is a research center at Amrita Vishwa Vidyapeetham University, India. The center focuses on projects in sustainable development, disaster management, smartgrids, intelligent infrastructures, AR & VR
+We are a small group within Amrita Center for Wireless Networks & Applications, and we focus on areas such as Distributed Ledger Technology, Web 3.0, NFTs, Cryptocurrency, Smart Contracts and Metaverse. The club is dedicated to exploring and advancing the world of blockchain technology. Our club brings together a diverse group of students and faculty members with a passion for the field, and provides opportunities for learning, networking, and making a difference. Whether you are a seasoned expert or just starting to learn about blockchain, you'll find a community of like-minded individuals who are eager to share knowledge and work towards a brighter future. Join us today and start your blockchain journey!
+
+Visit https://amritawnaofficial.github.io/blockchain/ for more info
 
 <!--
 
